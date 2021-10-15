@@ -1,1 +1,2 @@
 profile_data/*
+!profile_data/.lock
