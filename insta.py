@@ -1,4 +1,9 @@
 #!/usr/bin/python
+'''
+Insta Analytics
+by Arthur Nunes
+@arthurhdn_
+'''
 import instaloader
 import webbrowser
 import requests
